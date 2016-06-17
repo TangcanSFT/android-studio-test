@@ -7,12 +7,14 @@ public class CellData {
     private String roomName;
     private String audienceNum;
 
+
     public CellData(String roomName, String audienceNum) {
         this.roomName = roomName;
         this.audienceNum = audienceNum;
     }
 
     public String getRoomName() {
+//        return roomName;
         return roomName;
     }
 
