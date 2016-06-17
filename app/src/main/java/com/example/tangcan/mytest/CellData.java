@@ -13,6 +13,7 @@ public class CellData {
         this.audienceNum = audienceNum;
     }
 
+
     public String getRoomName() {
         return roomName;
     }
