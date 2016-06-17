@@ -38,23 +38,3 @@ public class MainActivity extends Activity {
 
 
 }
-//        ListView listview= (ListView)findViewById(R.id.list);
-//        final Button btn = (Button) findViewById(R.id.btn);
-
-//        final TextView textView = (TextView) findViewById(R.id.textView);
-//        final PowerManager pm = (PowerManager) MainActivity.this.getSystemService(Context.POWER_SERVICE);
-//        wl= pm.newWakeLock(PowerManager.ACQUIRE_CAUSES_WAKEUP | PowerManager.FULL_WAKE_LOCK, "TEST");
-//        btn.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-////                textView.setText("我亮不起来了=-=");
-////                textView.setKeepScreenOn(true);
-////                getWindow().setFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON,
-////                        WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
-//                btn.setText("亮");
-//                wl.acquire();
-//            }
-//        });
-//
-
-//        listview.addHeaderView(new HeadView(MainActivity.this));
