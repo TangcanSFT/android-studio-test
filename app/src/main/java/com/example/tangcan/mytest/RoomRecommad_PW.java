@@ -81,7 +81,7 @@ public class RoomRecommad_PW extends PopupWindow {
         data.add(new CellData("上海嘉定", "1000"));
         data.add(new CellData("上海嘉定", "2890"));
 
-        data.add(new CellData("天畅", "0448"));
+        data.add(new CellData("火猫", "0448"));
 
         return data;
     }
