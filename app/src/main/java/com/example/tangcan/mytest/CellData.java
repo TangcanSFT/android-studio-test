@@ -14,7 +14,6 @@ public class CellData {
     }
 
     public String getRoomName() {
-//        return roomName;
         return roomName;
     }
 
