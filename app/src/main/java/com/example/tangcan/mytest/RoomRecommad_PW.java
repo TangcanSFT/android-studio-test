@@ -68,13 +68,6 @@ public class RoomRecommad_PW extends PopupWindow {
         data.add(new CellData("上海嘉定", "28"));
         data.add(new CellData("上海嘉定", "1000"));
 
-        data.add(new CellData("上海嘉定", "2890"));
-        data.add(new CellData("上海嘉定", "1000"));
-        data.add(new CellData("上海嘉定", "2890"));
-        data.add(new CellData("上海嘉定", "1000"));
-        data.add(new CellData("上海嘉定", "2890"));
-        data.add(new CellData("上海嘉定", "1000"));
-        data.add(new CellData("上海嘉定", "2890"));
         data.add(new CellData("上海嘉定", "1000"));
         data.add(new CellData("上海嘉定", "2890"));
 
